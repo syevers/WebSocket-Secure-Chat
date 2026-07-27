@@ -1,6 +1,6 @@
 # WebSocket Secure Chat Application
 
-### Note: Currently the backend is down as this was a semester project and no longer needed, however you can still visit the site to see what it looked like and explore the codebase. 
+### Note: Currently the website is down as this was a semester project and no longer needed.
 
 ## Project Overview
 
